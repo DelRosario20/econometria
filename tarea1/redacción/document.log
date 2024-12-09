@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  8 DEC 2024 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  8 DEC 2024 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,10 +314,30 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count300
 \enitdp@description=\count301
 )
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
+\Gm@dimlist=\toks31
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
+\l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box66
 ) (document.aux
 LaTeX Info: Redefining \. on input line 9.
@@ -325,37 +345,37 @@ LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
-\scratchdimen=\dimen183
+\scratchcounter=\count306
+\scratchdimen=\dimen191
 \scratchbox=\box67
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count306
-\MPscratchDim=\dimen184
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks32
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen192
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks33
 )
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -367,38 +387,153 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png, id=1, 362.85562pt x 16
-0.34906pt>
-File: C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png Graphic file (type
- png)
-<use C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png>
-Package pdftex.def Info: C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png
-  used on input line 32.
-(pdftex.def)             Requested size: 362.85474pt x 160.34866pt.
-
-Overfull \hbox (17.85474pt too wide) in paragraph at lines 32--33
-[][] 
- []
-
-File: C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png Graphic file (type
- png)
-<use C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png>
-Package pdftex.def Info: C:/Users/USER/OneDrive/Imágenes/tarea/plot/prueba.png
-  used on input line 40.
-(pdftex.def)             Requested size: 362.85474pt x 160.34866pt.
-
-Overfull \hbox (17.85474pt too wide) in paragraph at lines 40--41
-[][] 
- []
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
 
 [1
 
-{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/USER
-/OneDrive/Imágenes/tarea/plot/prueba.png>]
+{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[2] (document.aux
+[2]
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_a.png, id=18, 53
+3.71394pt x 589.0005pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_8/8_a.png  used on input line 87.
+(pdftex.def)             Requested size: 430.00462pt x 474.56233pt.
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_b.png, id=20, 51
+7.09184pt x 574.18515pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_b.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_b.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_8/8_b.png  used on input line 91.
+(pdftex.def)             Requested size: 473.0077pt x 525.26036pt.
+
+Overfull \hbox (43.00308pt too wide) in paragraph at lines 91--92
+[][] 
+ []
+
+
+
+[3 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_a.png>]
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_c.png, id=25, 53
+6.2434pt x 577.79865pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_c.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_c.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_8/8_c.png  used on input line 95.
+(pdftex.def)             Requested size: 473.0077pt x 509.68105pt.
+
+Overfull \hbox (43.00308pt too wide) in paragraph at lines 95--96
+[][] 
+ []
+
+
+
+[4 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_b.png>]
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_d.png, id=31, 50
+8.7808pt x 573.1011pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_d.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_d.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_8/8_d.png  used on input line 99.
+(pdftex.def)             Requested size: 430.00462pt x 484.39236pt.
+
+
+[5 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_c.png>]
+
+[6 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_8/8_d.png>]
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_a.png, id=40, 52
+7.571pt x 562.2606pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_9/9_a.png  used on input line 109.
+(pdftex.def)             Requested size: 455.80385pt x 485.77391pt.
+
+Overfull \hbox (25.79922pt too wide) in paragraph at lines 109--110
+[][] 
+ []
+
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_b.png, id=41, 52
+0.70535pt x 508.7808pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_b.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_b.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_9/9_b.png  used on input line 113.
+(pdftex.def)             Requested size: 494.50269pt x 483.19151pt.
+
+Overfull \hbox (64.49806pt too wide) in paragraph at lines 113--114
+[][] 
+ []
+
+
+
+[7 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_a.png>]
+
+[8 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_9/9_b.png>]
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_a.png, id=51, 
+513.8397pt x 660.18645pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_a.png Gra
+phic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_10/10_a.png  used on input line 123.
+(pdftex.def)             Requested size: 369.80423pt x 475.14247pt.
+<C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_b.png, id=52, 
+519.6213pt x 583.2189pt>
+File: C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_b.png Gra
+phic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_b.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea1/plot//pregu
+nta_10/10_b.png  used on input line 127.
+(pdftex.def)             Requested size: 421.40268pt x 473.00098pt.
+
+
+[9 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_a.png>]
+
+[10 <C:/Users/USER/Documents/econometria/tarea1/plot//pregunta_10/10_b.png>]
+(document.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -408,25 +543,29 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6253 strings out of 473682
- 107277 string characters out of 5719692
- 508625 words of memory out of 5000000
- 29243 multiletter control sequences out of 15000+600000
- 559128 words of font info for 40 fonts, out of 8000000 for 9000
+ 6831 strings out of 473682
+ 119466 string characters out of 5719692
+ 525776 words of memory out of 5000000
+ 29804 multiletter control sequences out of 15000+600000
+ 562837 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,6n,93p,274b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,7n,93p,274b,401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USER/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USER/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on document.pdf (2 pages, 103207 bytes).
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USER/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/USER/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USE
+R/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
+sers/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b>
+Output written on document.pdf (10 pages, 7694801 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
