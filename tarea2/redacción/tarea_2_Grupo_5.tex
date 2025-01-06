@@ -55,14 +55,15 @@ La covarianza entre dos variables aleatorias $X$ y $Y$ se define como:
 $$Cov(X,Y)=E[(X-E(X))(Y-E(Y))]$$
 Demuestra que: 
 $$E[(X-E(X))(Y-E(Y))]=E(XY)-E(X)E(Y)$$
-Pista: Expande el término (X-E(X))(Y-E(Y)) y luego calcula el valor esperado. Recuerda que $E(X)=\mu x$ y $E(Y)=\mu y$ y que $\mu x$ y $\mu y$ son parámetros y, por lo tanto, son constantes.
+Pista: Expande el término $(X-E(X))(Y-E(Y))$ y luego calcula el valor esperado. Recuerda que $E(X)=\mu x$ y $E(Y)=\mu y$ y que $\mu x$ y $\mu y$ son parámetros y, por lo tanto, son constantes.
 
 \section*{Problema 5}
 
-El estimador es insesado si su valor esperado es igual al parámetro que se está estimando. Demuestra que la media muestra es un estimador insesgado de la media poblacional. Es decir, demuestra que: 
+El estimador es insesgado si su valor esperado es igual al parámetro que se está estimando. Demuestra que la media muestra es un estimador insesgado de la media poblacional. Es decir, demuestra que: 
 $$E(\bar{X})=\mu$$
 donde $\bar{X}$ es la media muestral y $\mu$ es la media poblacional.
-Dada una muestra aleatoria ${X_1,X_2,...,X_n}$, el estimador de la media muestral se define como: 
+\\
+Dada una muestra aleatoria $\{X_1, X_2, \ldots, X_n\}$, el estimador de la media muestral se define como: 
 $$
 \bar{X}	=	\frac{1}{n}	\sum_{i=1}^{n}	X_i
 $$
@@ -87,29 +88,32 @@ $$
 \sigma^2=
 	\frac{1}{N} 
 	\sum_{i=1}^{N}
-	(x_i-\mu)^2
+	(X_i-\mu)^2
 $$
 donde $N$ es el tamaño de la población, $X_i$ es el valor de la variable en la i-ésima observación y $\mu$ es la media de la población.
-También debieron haber aprendido que, dada una muestra aleatori ${X_1,X_2,...,X_n}$, la varianza de una muestra se calcula como:
+\\
+También debieron haber aprendido que, dada una muestra aleatori $\{X_1, X_2, \ldots, X_n\}$, la varianza de una muestra se calcula como:
 $$
-s^2=
+S^2=
 	\frac{1}{n-1}
 	\sum_{i=1}^{n}
 	(X_i-\bar{X})^2
 $$
-donde $n$ es el tamaño de la muestra y $\bar{N}$ es la media de la muestra. ¿Se preguntaron por qué en la varianza muestral se divide por $n-1$ y no por $n$? La razón por la cual dividimos para n-1 en lugar de $n$ es para corregir el sesgo en la estimación de la varianza poblacional.
-Demuestra que si tomáramos un estimador sin restar 1 en el denominador, el estimador sería sesgado. Sea $S^2$ el estimador de la varianza poblacional que se obtiene al dividir por $n$ en lugar de $n-1$. Demuestra que $S^2$ es un estimador sesgado de la varianza poblacional.
+donde $n$ es el tamaño de la muestra y $\bar{X}$ es la media de la muestra. ¿Se preguntaron por qué en la varianza muestral se divide por $n-1$ y no por $n$? La razón por la cual dividimos para n-1 en lugar de $n$ es para corregir el sesgo en la estimación de la varianza poblacional.
+\\
+Demuestra que si tomáramos un estimador sin restar 1 en el denominador, el estimador sería sesgado. Sea $\tilde{S}^2$ el estimador de la varianza poblacional que se obtiene al dividir por $n$ en lugar de $n-1$. Demuestra que $\tilde{S}^2$ es un estimador sesgado de la varianza poblacional.
 $$
-\bar{S}^2=
+\tilde{S}^2=
 	\frac{1}{n}
 	\sum_{i=1}^{n}	
 	(X_i-\bar{X})^2
 $$
-Para demostrar que $\bar{S}^2$ es un estimador sesgado de la varianza poblacional, necesitamos demoestrar que el valor esperado de $\bar{S}^2$ es diferente de $\sigma^2$. Es decir, necesitamos demostrar que
+Para demostrar que $\tilde{S}^2$ es un estimador sesgado de la varianza poblacional, necesitamos demostrar que el valor esperado de $\tilde{S}^2$ es diferente de $\sigma^2$. Es decir, necesitamos demostrar que
 $$
-E(\bar{S}^2)\neq\sigma^2
+E(\tilde{S}^2)\neq\sigma^2
 $$
 Pista: Para resolver esta ejercicio necesitarás calcular $E(X^2)$ y $E(\bar{X}^2)$. Recuerda que la varianza de una variable aleatoria $X$ se define como $Var(X)=E(X^2)-E(X)^2$. Por lo tanto, podemos despejar $E(X^2)$ como $E(X^2)=Var(X)+E(X)^2$.
+\\
 Igualmente, para resolver este ejercicio de forma sencilla podemos utilizar el hecho que: 
 $$
 \sum_{i=1}^{n} (X_i-\bar{X})^2=
@@ -125,9 +129,10 @@ $$
 El $z-score$ o puntaje estándar es una medida estadística que indica cuántas desviaciones estándar un valor de una variable aleatoria se encuentra por encima o por debajo de la media de esa variable. Es una forma de estandarizar los datos para compararlos de manera más fácil, incluso si provienen de distribuciones diferentes o tienen escalas distintas. El $z-score$ se calcula como:
 $$
 Z=
-\frac{\sigma}{X-\mu}
+\frac{X-\mu}{\sigma}
 $$
 donde $X$ es el valor de la variable aleatoria, $\mu$ es la media de la variable aleatoria y $\sigma$ es la desviación estándar de la variable aleatoria. 
+\\
 Demuestra que el valor esperado de un $z-score$ es igual a cero y su varianza es igual a uno. Es decir, demuestra que: 
 $$
 E(Z)=0 \ y \ Var(Z)=1
@@ -162,12 +167,15 @@ $$
 
 \section*{Problema 10}
 
-Dada una muestra aleatoria ${(X_i,Y_i):n=1,2,...,n}$, el modelo de regresión lineal simple se define como:
+Dada una muestra aleatoria
+$\{(X_i, Y_2): n=1,2,\ldots,n\}$, el modelo de regresión lineal simple se define como:
 $$
 Y_i=
-\beta_0
-\beta_1X_i
-u_i
+	\beta_0
+	+
+	\beta_1X_i
+	+
+	u_i
 $$
 donde $\beta_0$ y $\beta_1$ son los coeficientes de la regresión y $u_i$ es el término de error. Utilizando el método de mínimos cuadrados, demuestra que los estimadores de los coeficientes de la regresión son:
 $$

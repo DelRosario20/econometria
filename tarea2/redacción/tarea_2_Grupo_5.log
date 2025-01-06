@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  5 JAN 2025 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  6 JAN 2025 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,12 +452,6 @@ File: fc-english.def 2016/01/12
 [1
 
 {C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (4.15692pt too wide) in paragraph at lines 63--66
-\OT1/cmr/m/n/10 donde $[]$ es la me-dia mues-tral y $\OML/cmm/m/it/10 ^^V$ \OT1
-/cmr/m/n/10 es la me-dia pobla-cional. Dada una mues-tra aleato-ria $[]$,
- []
-
-
 
 [2]
 
@@ -472,7 +466,7 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  7864 strings out of 473650
  127295 string characters out of 5718416
- 540932 words of memory out of 5000000
+ 541932 words of memory out of 5000000
  30844 multiletter control sequences out of 15000+600000
  562837 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -487,7 +481,7 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USER/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USER/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tarea_2_Grupo_5.pdf (4 pages, 116329 bytes).
+Output written on tarea_2_Grupo_5.pdf (4 pages, 116339 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
