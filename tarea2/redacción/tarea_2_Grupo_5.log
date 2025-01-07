@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  6 JAN 2025 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  7 JAN 2025 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,25 +452,82 @@ File: fc-english.def 2016/01/12
 [1
 
 {C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png, id=12, 51
+9.25995pt x 582.13486pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_5/5_a.png  used on input line 73.
+(pdftex.def)             Requested size: 369.80423pt x 414.58885pt.
+
 
 [2]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png, id=19, 50
+9.86485pt x 663.07726pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_6/6_a.png  used on input line 89.
+(pdftex.def)             Requested size: 301.00192pt x 391.46513pt.
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png, id=20, 51
+6.7305pt x 296.66835pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_6/6_b.png  used on input line 91.
+(pdftex.def)             Requested size: 369.80423pt x 212.31543pt.
 
-[3]
 
-[4] (tarea_2_Grupo_5.aux)
+[3 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png>]
+Overfull \vbox (48.304pt too high) has occurred while \output is active []
+
+
+
+[4 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png> <C:/Us
+ers/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png, id=30, 48
+8.90656pt x 583.2189pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_7/7_a.png  used on input line 139.
+(pdftex.def)             Requested size: 275.20268pt x 328.309pt.
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png, id=31, 53
+2.99126pt x 569.84895pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_7/7_b.png  used on input line 141.
+(pdftex.def)             Requested size: 275.20268pt x 294.24501pt.
+
+
+[5]
+Overfull \vbox (67.07745pt too high) has occurred while \output is active []
+
+
+
+[6 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png> <C:/Us
+ers/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png>]
+
+[7] (tarea_2_Grupo_5.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7864 strings out of 473650
- 127295 string characters out of 5718416
- 541932 words of memory out of 5000000
- 30844 multiletter control sequences out of 15000+600000
+ 7912 strings out of 473650
+ 130196 string characters out of 5718416
+ 539932 words of memory out of 5000000
+ 30892 multiletter control sequences out of 15000+600000
  562837 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,7n,93p,1017b,204s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,7n,93p,1017b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -481,9 +538,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USER/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USER/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tarea_2_Grupo_5.pdf (4 pages, 116339 bytes).
+Output written on tarea_2_Grupo_5.pdf (7 pages, 4681771 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
