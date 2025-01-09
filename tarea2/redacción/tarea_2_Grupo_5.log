@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  7 JAN 2025 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.30)  9 JAN 2025 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,7 +434,7 @@ File: fc-english.def 2016/01/12
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -447,84 +447,168 @@ File: fc-english.def 2016/01/12
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_1/1_a.jpg, id=1, 853
+.68938pt x 935.74594pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_1/1_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_1/1_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_1/1_a.jpg  used on input line 39.
+(pdftex.def)             Requested size: 249.82996pt x 273.8438pt.
 
 
 [1
 
-{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png, id=12, 51
-9.25995pt x 582.13486pt>
+{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/USER
+/Documents/econometria/tarea2/plot//pregunta_1/1_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_2/2_a.jpg, id=12, 85
+2.93657pt x 960.58875pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_2/2_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_2/2_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_2/2_a.jpg  used on input line 52.
+(pdftex.def)             Requested size: 395.60345pt x 445.54053pt.
+
+
+[2 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_2/2_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_3/3_a.jpg, id=16, 11
+65.35374pt x 1399.2275pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_3/3_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_3/3_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_3/3_a.jpg  used on input line 65.
+(pdftex.def)             Requested size: 361.2023pt x 433.69199pt.
+
+
+[3 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_3/3_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_4/4_a.jpg, id=21, 15
+48.78625pt x 1606.0pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_4/4_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_4/4_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_4/4_a.jpg  used on input line 78.
+(pdftex.def)             Requested size: 408.50307pt x 423.57852pt.
+
+
+[4 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_4/4_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png, id=25, 51
+9.25995pt x 555.0336pt>
 File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png Graph
 ic file (type png)
 <use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
-nta_5/5_a.png  used on input line 73.
-(pdftex.def)             Requested size: 369.80423pt x 414.58885pt.
+nta_5/5_a.png  used on input line 94.
+(pdftex.def)             Requested size: 369.80423pt x 395.28769pt.
 
 
-[2]
-<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png, id=19, 50
+[5 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png, id=33, 50
 9.86485pt x 663.07726pt>
 File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png Graph
 ic file (type png)
 <use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
-nta_6/6_a.png  used on input line 89.
+nta_6/6_a.png  used on input line 110.
 (pdftex.def)             Requested size: 301.00192pt x 391.46513pt.
-<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png, id=20, 51
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png, id=34, 51
 6.7305pt x 296.66835pt>
 File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png Graph
 ic file (type png)
 <use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
-nta_6/6_b.png  used on input line 91.
+nta_6/6_b.png  used on input line 112.
 (pdftex.def)             Requested size: 369.80423pt x 212.31543pt.
 
 
-[3 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_5/5_a.png>]
+[6]
 Overfull \vbox (48.304pt too high) has occurred while \output is active []
 
 
 
-[4 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png> <C:/Us
+[7 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_6/6_a.png> <C:/Us
 ers/USER/Documents/econometria/tarea2/plot//pregunta_6/6_b.png>]
-<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png, id=30, 48
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png, id=44, 48
 8.90656pt x 583.2189pt>
 File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png Graph
 ic file (type png)
 <use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
-nta_7/7_a.png  used on input line 139.
+nta_7/7_a.png  used on input line 160.
 (pdftex.def)             Requested size: 275.20268pt x 328.309pt.
-<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png, id=31, 53
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png, id=45, 53
 2.99126pt x 569.84895pt>
 File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png Graph
 ic file (type png)
 <use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
-nta_7/7_b.png  used on input line 141.
+nta_7/7_b.png  used on input line 162.
 (pdftex.def)             Requested size: 275.20268pt x 294.24501pt.
 
 
-[5]
+[8]
 Overfull \vbox (67.07745pt too high) has occurred while \output is active []
 
 
 
-[6 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png> <C:/Us
+[9 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_7/7_a.png> <C:/Us
 ers/USER/Documents/econometria/tarea2/plot//pregunta_7/7_b.png>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_8/8_a.png, id=54, 51
+9.1395pt x 333.04425pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_8/8_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_8/8_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_8/8_a.png  used on input line 183.
+(pdftex.def)             Requested size: 473.0077pt x 303.45695pt.
 
-[7] (tarea_2_Grupo_5.aux)
+Overfull \hbox (43.00308pt too wide) in paragraph at lines 183--184
+ [][] 
+ []
+
+
+
+[10 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_8/8_a.png>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_9/9_a.png, id=59, 51
+8.53725pt x 314.97675pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_9/9_a.png Graph
+ic file (type png)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_9/9_a.png>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_9/9_a.png  used on input line 215.
+(pdftex.def)             Requested size: 473.0077pt x 287.32137pt.
+
+Overfull \hbox (43.00308pt too wide) in paragraph at lines 215--216
+ [][] 
+ []
+
+
+
+[11 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_9/9_a.png>]
+<C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_10/10_a.jpg, id=64, 
+548.7702pt x 807.9786pt>
+File: C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_10/10_a.jpg Gra
+phic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_10/10_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea2/plot//pregu
+nta_10/10_a.jpg  used on input line 253.
+(pdftex.def)             Requested size: 275.20268pt x 405.19653pt.
+
+
+[12 <C:/Users/USER/Documents/econometria/tarea2/plot//pregunta_10/10_a.jpg>]
+(tarea_2_Grupo_5.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7912 strings out of 473650
- 130196 string characters out of 5718416
- 539932 words of memory out of 5000000
- 30892 multiletter control sequences out of 15000+600000
+ 7975 strings out of 473650
+ 134183 string characters out of 5718416
+ 539901 words of memory out of 5000000
+ 30955 multiletter control sequences out of 15000+600000
  562837 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,7n,93p,1017b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -538,9 +622,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USER/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USER/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tarea_2_Grupo_5.pdf (7 pages, 4681771 bytes).
+Output written on tarea_2_Grupo_5.pdf (12 pages, 7191393 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
