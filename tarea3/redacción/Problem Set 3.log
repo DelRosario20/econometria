@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.24)  2 FEB 2025 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.24)  4 FEB 2025 02:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,20 +507,62 @@ Overfull \hbox (51.59845pt too wide) in paragraph at lines 58--59
 [3 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_1/1_d_i.png>]
 
 [4 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_1/1_d_ii.png>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_a.jpg, id=30, 12
+84.8pt x 1150.2975pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_2/2_a.jpg  used on input line 81.
+(pdftex.def)             Requested size: 378.40616pt x 338.79071pt.
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_b.jpg, id=31, 12
+84.8pt x 975.645pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_b.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_b.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_2/2_b.jpg  used on input line 87.
+(pdftex.def)             Requested size: 305.30617pt x 231.83719pt.
 
-[5]
 
-[6] (Problem Set 3.aux)
+[5 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_c.jpg, id=35, 12
+84.8pt x 852.18375pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_c.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_c.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_2/2_c.jpg  used on input line 93.
+(pdftex.def)             Requested size: 339.70076pt x 225.30748pt.
+
+
+[6 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_b.jpg> <C:/Us
+ers/USER/Documents/econometria/tarea3/plot//pregunta_2/2_c.jpg>]
+
+[7]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg, id=45, 11
+33.23375pt x 1226.5825pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_4/4_a.jpg  used on input line 139.
+(pdftex.def)             Requested size: 382.70384pt x 414.22511pt.
+
+
+[8 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>]
+
+[9] (Problem Set 3.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7929 strings out of 473536
- 130548 string characters out of 5715440
- 542398 words of memory out of 5000000
- 31019 multiletter control sequences out of 15000+600000
+ 7965 strings out of 473536
+ 132816 string characters out of 5715440
+ 539398 words of memory out of 5000000
+ 31055 multiletter control sequences out of 15000+600000
  564248 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,9n,93p,1017b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -533,9 +575,9 @@ ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Problem Set 3.pdf" (6 pages, 3317051 bytes).
+Output written on "Problem Set 3.pdf" (9 pages, 4453680 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
