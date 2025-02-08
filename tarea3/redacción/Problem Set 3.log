@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.24)  5 FEB 2025 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.8)  8 FEB 2025 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"./Problem Set 3.tex"
 (Problem Set 3.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -334,7 +334,7 @@ LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/01/19 v3.10 Customized lists
 \labelindent=\skip60
 \enit@outerparindent=\dimen181
 \enit@toks=\toks31
@@ -538,31 +538,166 @@ nta_2/2_c.jpg  used on input line 93.
 
 [6 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_2/2_b.jpg> <C:/Us
 ers/USER/Documents/econometria/tarea3/plot//pregunta_2/2_c.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_a.jpg, id=39, 28
+86.785pt x 1465.475pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_a.jpg  used on input line 121.
+(pdftex.def)             Requested size: 464.40578pt x 235.75539pt.
 
-[7]
-<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg, id=45, 11
+Overfull \hbox (34.40115pt too wide) in paragraph at lines 121--122
+[][] 
+ []
+
+
+
+[7 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_b.jpg, id=46, 29
+06.86pt x 1453.43pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_b.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_b.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_b.jpg  used on input line 126.
+(pdftex.def)             Requested size: 464.40578pt x 232.1987pt.
+
+Overfull \hbox (34.40115pt too wide) in paragraph at lines 126--127
+[][] 
+ []
+
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_c.jpg, id=47, 28
+40.6125pt x 1487.5575pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_c.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_c.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_c.jpg  used on input line 130.
+(pdftex.def)             Requested size: 464.40578pt x 243.18927pt.
+
+Overfull \hbox (34.40115pt too wide) in paragraph at lines 130--131
+[][] 
+ []
+
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_d.jpg, id=48, 28
+18.53pt x 1497.595pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_d.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_d.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_d.jpg  used on input line 134.
+(pdftex.def)             Requested size: 447.20192pt x 237.60918pt.
+
+Overfull \hbox (17.1973pt too wide) in paragraph at lines 134--135
+[][] 
+ []
+
+
+
+[8 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_b.jpg> <C:/Us
+ers/USER/Documents/econometria/tarea3/plot//pregunta_3/3_c.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_e.jpg, id=52, 27
+75.36874pt x 1521.685pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_e.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_e.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_e.jpg  used on input line 138.
+(pdftex.def)             Requested size: 447.20192pt x 245.19278pt.
+
+Overfull \hbox (17.1973pt too wide) in paragraph at lines 138--139
+[][] 
+ []
+
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_f.jpg, id=53, 21
+66.0925pt x 1949.2825pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_f.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_f.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_f.jpg  used on input line 142.
+(pdftex.def)             Requested size: 460.1081pt x 414.03116pt.
+
+Overfull \hbox (30.10347pt too wide) in paragraph at lines 142--143
+[][] 
+ []
+
+
+
+[9 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_d.jpg> <C:/Us
+ers/USER/Documents/econometria/tarea3/plot//pregunta_3/3_e.jpg>]
+
+[10 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_f.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_g.jpg, id=60, 26
+02.72375pt x 1621.05624pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_g.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_g.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_g.jpg  used on input line 147.
+(pdftex.def)             Requested size: 374.10191pt x 232.98174pt.
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_h.jpg, id=61, 25
+23.4275pt x 1674.255pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_h.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_h.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_3/3_h.jpg  used on input line 151.
+(pdftex.def)             Requested size: 374.10191pt x 248.1895pt.
+
+
+[11 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_3/3_g.jpg> <C:/U
+sers/USER/Documents/econometria/tarea3/plot//pregunta_3/3_h.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg, id=65, 11
 33.23375pt x 1226.5825pt>
 File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg Graph
 ic file (type jpg)
 <use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
-nta_4/4_a.jpg  used on input line 138.
+nta_4/4_a.jpg  used on input line 164.
 (pdftex.def)             Requested size: 382.70384pt x 414.22511pt.
 
 
-[8 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>]
+[12 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>]
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_a.jpg, id=69, 15
+92.19844pt x 2371.35938pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_a.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_a.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_5/5_a.jpg  used on input line 181.
+(pdftex.def)             Requested size: 430.00462pt x 640.42033pt.
 
-[9] (Problem Set 3.aux)
+
+LaTeX Warning: Float too large for page by 83.94377pt on input line 183.
+
+<C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_b.jpg, id=70, 17
+10.39pt x 697.10437pt>
+File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_b.jpg Graph
+ic file (type jpg)
+<use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_b.jpg>
+Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
+nta_5/5_b.jpg  used on input line 186.
+(pdftex.def)             Requested size: 430.00462pt x 175.25426pt.
+
+
+[13]
+
+[14 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_a.jpg>]
+
+[15 <C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_5/5_b.jpg>]
+(Problem Set 3.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7965 strings out of 473536
- 132816 string characters out of 5715440
- 539398 words of memory out of 5000000
- 31055 multiletter control sequences out of 15000+600000
+ 8057 strings out of 473530
+ 138517 string characters out of 5715279
+ 537878 words of memory out of 5000000
+ 31153 multiletter control sequences out of 15000+600000
  564248 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,9n,93p,1017b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -575,9 +710,9 @@ ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Problem Set 3.pdf" (9 pages, 4453507 bytes).
+Output written on "Problem Set 3.pdf" (15 pages, 12887753 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
