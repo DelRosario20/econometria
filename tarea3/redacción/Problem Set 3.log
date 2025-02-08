@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.24)  4 FEB 2025 02:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.24)  5 FEB 2025 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -546,7 +546,7 @@ File: C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg Graph
 ic file (type jpg)
 <use C:/Users/USER/Documents/econometria/tarea3/plot//pregunta_4/4_a.jpg>
 Package pdftex.def Info: C:/Users/USER/Documents/econometria/tarea3/plot//pregu
-nta_4/4_a.jpg  used on input line 139.
+nta_4/4_a.jpg  used on input line 138.
 (pdftex.def)             Requested size: 382.70384pt x 414.22511pt.
 
 
@@ -575,7 +575,7 @@ ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Problem Set 3.pdf" (9 pages, 4453680 bytes).
+Output written on "Problem Set 3.pdf" (9 pages, 4453507 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
